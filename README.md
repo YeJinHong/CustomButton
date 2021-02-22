@@ -4,7 +4,7 @@ Android programming 연습 1
 p.132 예제 : 커스텀 버튼
 
 1) normal
-<img src="https://user-images.githubusercontent.com/33932851/108724466-b2b22500-7568-11eb-8f8c-2994c66d9080.png"  width="700">
+<img src="https://user-images.githubusercontent.com/33932851/108724466-b2b22500-7568-11eb-8f8c-2994c66d9080.png"  width="70">
 
 출처: https://cutemoomin.tistory.com/112 [무민은귀여워]
 2) focused
